@@ -13,3 +13,13 @@ This repository contains the Power BI report. Dashboard screenshots will be adde
 ## Requirements
 
 - Power BI Desktop
+
+## Dashboard previews
+
+### Overview
+
+![Pizza sales overview](screenshots/01-overview.png)
+
+### Best and worst sellers
+
+![Pizza sales best and worst sellers](screenshots/02-best-worst-sellers.png)
