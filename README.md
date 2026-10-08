@@ -2,17 +2,9 @@
 
 A Power BI report for exploring pizza sales, order trends, and product performance.
 
-## Report
+## Power BI report
 
-Open [`Pizza_Sales_Dashboard.pbix`](Pizza_Sales_Dashboard.pbix) in Power BI Desktop.
-
-## Notes
-
-This repository contains the Power BI report. Dashboard screenshots will be added after the report pages are captured and reviewed.
-
-## Requirements
-
-- Power BI Desktop
+Download and open [`Pizza_Sales_Dashboard.pbix`](Pizza_Sales_Dashboard.pbix) in Power BI Desktop.
 
 ## Dashboard previews
 
@@ -23,3 +15,7 @@ This repository contains the Power BI report. Dashboard screenshots will be adde
 ### Best and worst sellers
 
 ![Pizza sales best and worst sellers](screenshots/02-best-worst-sellers.png)
+
+## Requirements
+
+- Power BI Desktop
